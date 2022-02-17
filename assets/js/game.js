@@ -168,7 +168,7 @@ case "upgrade":
   default:
     window.alert("You did not pick a valid option. Try again.");
 
-    // call shop() again to force player to pick a valid option
+    // call shop() again to force player to pick a valid options
     shop();
     break;
 }
